@@ -25,12 +25,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
-
----
 
 ## 🌐 Connect With Me  
 [Portfolio Website](https://yourwebsite.com)  
-[Instagram](https://instagram.com/)  
-[LinkedIn](https://linkedin.com/)  
+[Instagram]([https://instagram.com/](https://www.instagram.com/georgevincent_adukuzhiyil?igsh=aWY0eXIzcmN3Mjhh)  
+[LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/george-vincent-a60a06330/)  
